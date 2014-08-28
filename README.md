@@ -1,6 +1,7 @@
 ---
   tags: strings 
   languages: ruby
+  level: 1
 ---
 
 ## String methods
