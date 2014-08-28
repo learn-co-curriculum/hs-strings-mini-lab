@@ -5,26 +5,28 @@
 
 ## String methods
 
+Create a new file called strings.rb and write your answers in that file.
+
 ### What will the methods below print out?
 
-"racecar".reverse
+1. "racecar".reverse
 
-"i am super excited about coding!".upcase
+2. "i am super excited about coding!".upcase
 
-"Hi! My name is, Joe".swapcase
+3. "Hi! My name is, Joe".swapcase
 
-"short string".length
+4. "short string".length
 
-"racecar".reverse.upcase
+5. "backwards".reverse.upcase
 
-### Now it's your turn to use string methods.
+### Now it's your turn to use string methods. 
 
-1. Get enthusiastic about ruby! Write code below to print out "I love ruby" in all caps.
+6. Get enthusiastic about ruby! Print out "I love ruby" in all caps.
 
-2. Write code below will print out how long this sentence is: "This is a pretty long string. I wonder how long it is?"
+7. Print out how long this sentence is: "This is a pretty long string. I wonder how long it is?"
 
-3. It's backwards day! Write code below that will print your name backwards.
+8. It's backwards day! Print your name backwards.
 
-4. Wouldn't it be great if there was a string method that always wrote out your name with the first letter capitalized? There is! Write your code below 
+9. Wouldn't it be great if there was a string method that always wrote out your name with the first letter capitalized? There is! Print it out. 
 
-5. How much do we love ruby? So much that we want to say it in all caps AND backwards. Write your code below.
+10. How much do we love ruby? So much that we want to say it in all caps AND backwards. 
