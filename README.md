@@ -1,7 +1,7 @@
---
-  tags: strings, 
+---
+  tags: strings 
   languages: ruby
---
+---
 
 ## String methods
 
