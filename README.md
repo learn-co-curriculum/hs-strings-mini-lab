@@ -1,7 +1,8 @@
 ---
-  tags: strings 
+  tags: strings, kids
   languages: ruby
   level: 1
+  type: lab
 ---
 
 ## String methods
