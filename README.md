@@ -5,12 +5,10 @@
   type: lab
 ---
 
-## String methods
-
+### String methods
 Create a new file called strings.rb and write your answers in that file.
 
 ### What will the methods below print out?
-
 1. "racecar".reverse
 
 2. "i am super excited about coding!".upcase
@@ -22,7 +20,6 @@ Create a new file called strings.rb and write your answers in that file.
 5. "backwards".reverse.upcase
 
 ### Now it's your turn to use string methods. 
-
 6. Get enthusiastic about ruby! Print out "I love ruby" in all caps.
 
 7. Print out how long this sentence is: "This is a pretty long string. I wonder how long it is?"
