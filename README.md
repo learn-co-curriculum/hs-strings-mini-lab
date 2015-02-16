@@ -6,12 +6,15 @@
 ---
 
 ### String methods
-Create a new file called strings.rb and write your answers in that file.
+Create a new file called `strings.rb` and write your answers in that file.
 
 ### What will the methods below print out?
-1. "racecar".reverse
 
-2. "i am super excited about coding!".upcase
+**Hint:** If you're not sure - open up your terminal and type `irb` to start up interactive ruby. Then copy and paste the methods below to see what gets output.
+
+1. "i am super excited about coding!".upcase
+
+2. "racecar".reverse
 
 3. "Hi! My name is, Joe".swapcase
 
