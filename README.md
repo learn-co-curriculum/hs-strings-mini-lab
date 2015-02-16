@@ -12,15 +12,15 @@ Create a new file called `strings.rb` and write your answers in that file.
 
 **Hint:** If you're not sure - open up your terminal and type `irb` to start up interactive ruby. Then copy and paste the methods below to see what gets output.
 
-1. "i am super excited about coding!".upcase
+1. puts "i am super excited about coding!".upcase
 
-2. "racecar".reverse
+2. puts "racecar".reverse
 
-3. "Hi! My name is, Joe".swapcase
+3. puts "Hi! My name is, Joe".swapcase
 
-4. "short string".length
+4. puts "short string".length
 
-5. "backwards".reverse.upcase
+5. puts "backwards".reverse.upcase
 
 ### Now it's your turn to use string methods. 
 6. Get enthusiastic about ruby! Print out "I love ruby" in all caps.
