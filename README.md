@@ -8,9 +8,9 @@
 ### String methods
 Create a new file called `strings.rb` and write your answers in that file.
 
-### What will the methods below print out?
+### What will the string methods below do?
 
-**Hint:** If you're not sure - open up your terminal and type `irb` to start up interactive ruby. Then copy and paste the methods below to see what gets output.
+**Not sure?** Open up your terminal and type `irb` to start up interactive ruby. Then copy and paste the line of code and hit enter to see what gets output.
 
 1. puts "i am super excited about coding!".upcase
 
