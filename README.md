@@ -5,8 +5,9 @@
   type: lab
 ---
 
-## String Methods Interactive Practive
+## String Methods Interactive Practice
 ???
+# String Practice
 ### Part 1 - Testing string methods: What will each of these lines of code return?
 
 ?: puts "i am super excited about coding!".upcase
