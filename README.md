@@ -5,40 +5,30 @@
   type: lab
 ---
 
-## String Methods Interactive Practice
-???
-# String Practice
-### Part 1 - Testing string methods: What will each of these lines of code return?
+### String methods
+Create a new file called `strings.rb` and write your answers in that file.
 
-?: puts "i am super excited about coding!".upcase
-[-]
+### What will the string methods below do?
 
-?: puts "racecar".reverse
-[-]
+**Not sure?** Open up your terminal and type `irb` to start up interactive ruby. Then copy and paste the line of code and hit enter to see what gets output.
 
-?: puts "Hi! My name is, Joe".swapcase
-[-]
+1. puts "i am super excited about coding!".upcase
 
-?: puts "short string".length
-[-]
+2. puts "racecar".reverse
 
-?: puts "backwards".reverse.upcase
-[-]
+3. puts "Hi! My name is, Joe".swapcase
 
-#### Now it's your turn to use string methods. 
-?: Get enthusiastic about ruby! How do I print out "I love ruby" in all caps?
-[-]
+4. puts "short string".length
 
-?: Use a method to print out how long this sentence is: "This is a pretty long string. I wonder how long it is?"
-[-]
+5. puts "backwards".reverse.upcase
 
-?: It's backwards day! How would you print "backwards" backwards?
-[-]
+### Now it's your turn to use string methods. 
+6. Get enthusiastic about ruby! Print out "I love ruby" in all caps.
 
-?: Wouldn't it be great if there was a string method that always capitalized the first letter of each word? There is! "make it capitalize the first letter of each word in this string!"
-[-]
+7. Print out how long this sentence is: "This is a pretty long string. I wonder how long it is?"
 
-?: How much do we love "Ruby"? So much that we want to say it in all caps AND backwards. How would you do this?
-[-]
+8. It's backwards day! Print your name backwards.
 
-???
+9. Wouldn't it be great if there was a string method that always wrote out your name with the first letter capitalized? There is! Print it out. 
+
+10. How much do we love ruby? So much that we want to say it in all caps AND backwards. 
