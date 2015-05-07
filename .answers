@@ -6,5 +6,4 @@
 '"I love Ruby".upcase'
 '"This is a pretty long string. I wonder how long it is?".length'
 '"make it capitalize the first letter of each word in this string!".capitalize'
-'"make it capitalize the first word in this string!".upcase'
 '"Ruby".upcase.reverse'
