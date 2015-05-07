@@ -35,7 +35,7 @@
 ?: It's backwards day! How would you print "backwards" backwards?
 [-]
 
-?: Wouldn't it be great if there was a string method that always capitalized the first letter of each word? There is! "make it capitalize the first letter of each word in this string!"
+?: Wouldn't it be great if there was a string method that always capitalized the first letter of a string? There is! "make it capitalize the first letter in this string!"
 [-]
 
 ?: How much do we love "Ruby"? So much that we want to say it in all caps AND backwards. How would you do this?
