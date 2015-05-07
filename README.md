@@ -1,9 +1,9 @@
 
 ## String Methods Interactive Practice
+### What will each of the following lines of code return?
+
 ???
 # String Practice
-### Part 1 - Testing string methods: What will each of these lines of code return?
-
 ?: puts "i am super excited about coding!".upcase
 [-]
 
@@ -16,10 +16,13 @@
 ?: puts "short string".length
 [-]
 
-?: puts "backwards".reverse.upcase
+?: puts "burrito".reverse.upcase
 [-]
 
-#### Now it's your turn to use string methods. 
+???
+
+???
+# Now it's your turn to use string methods. 
 ?: Get enthusiastic about ruby! How do I print out "I love ruby" in all caps?
 [-]
 
