@@ -3,6 +3,7 @@
 ### What will each of the following lines of code return?
 
 ???
+
 # String Practice
 ?: puts "i am super excited about coding!".upcase
 [-]
@@ -22,6 +23,7 @@
 ???
 
 ???
+
 # Now it's your turn to use string methods. 
 ?: Get enthusiastic about ruby! How do I print out "I love ruby" in all caps?
 [-]
