@@ -3,7 +3,7 @@
 "hI! mY NAME IS, jOE"
 12
 "SDRAWKCAB"
-"I love Ruby".upcase
-"This is a pretty long string. I wonder how long it is?".length
-"make it capitalize the first letter of each word in this string!".capitalize
-"Ruby".upcase.reverse
+"'I love Ruby'.upcase"
+"'This is a pretty long string. I wonder how long it is?'.length"
+"'make it capitalize the first letter of each word in this string!'.capitalize"
+"'Ruby'.upcase.reverse"
