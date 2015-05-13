@@ -3,8 +3,8 @@
 "hI! mY NAME IS, jOE"
 12
 "OTIRRUB"
-"'I love Ruby'.upcase"
-"'This is a pretty long string. I wonder how long it is?'.length"
+"I love Ruby".upcase
+"This is a pretty long string. I wonder how long it is?".length
 "sdrawkcab"
-"'make it capitalize the first letter of each word in this string!'.capitalize"
-"'Ruby'.upcase.reverse"
+"make it capitalize the first letter of each word in this string!".capitalize
+"Ruby".upcase.reverse
