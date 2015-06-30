@@ -12,11 +12,11 @@
 (X) "I AM SUPER EXCITED ABOUT CODING!"
 ( ) "I aM sUPER eXCITED aBOUT cODING!"
 
-?: puts "racecar".reverse
+?: puts "stressed".reverse
 
-( ) "RACECAR"
-( ) "rAcEcAr"
-(X) "racecar"
+( ) "STRESSED"
+( ) "sTrEsSeD"
+(X) "desserts"
 
 ?: puts "Hi! My name is Joe".swapcase
 
