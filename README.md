@@ -75,3 +75,5 @@
 (X) '"Ruby".upcase.reverse'
 
 ???
+
+<a href='https://learn.co/lessons/hs-strings-mini-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
