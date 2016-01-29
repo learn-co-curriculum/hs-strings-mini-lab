@@ -76,4 +76,4 @@
 
 ???
 
-<a href='https://learn.co/lessons/hs-strings-mini-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-strings-mini-lab' title='String Methods Interactive Practice'>String Methods Interactive Practice</a> on Learn.co and start learning to code for free.</p>
